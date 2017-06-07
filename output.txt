@@ -1,0 +1,24 @@
+Maximum temperature was 41 on 2012-08-10
+Mean temperature was 14
+Minimum temperature was 0 on 1997-01-02
+
+Maximum dew was 20 on 2015-08-30
+Mean dew was 4
+Minimum dew was -18 on 2014-12-29
+
+Maximum humidity was 100 on 2015-12-31
+Mean humidity was 57
+Minimum humidity was 0 on 2001-06-25
+
+Maximum sea_pressure was 1047 on 2015-01-09
+Mean sea pressure was 1017
+Minimum sea_pressure was 965 on 2001-03-02
+
+Maximum visibility was 31 on 2015-12-31
+Mean visibility was 10
+Minimum visibility was 0 on 1997-01-07
+
+Maximum wind speed was 182 on 1999-12-15
+Mean wind speed was 9
+Maximum gust speed was 103 on 1997-11-06
+
