@@ -188,7 +188,7 @@ class CSV:
                 writer.writerow(row)
 
     def write_to_file2(self, file_name):
-        """ writes the given record_list to the output file in csv format """
+        """ writes the summary of weather data to the output file """
         with open(file_name, 'w') as the_file:
             temp_dict = self.get_temp_data()
             the_file.write("Maximum temperature was {:d} on {}\n".format(
