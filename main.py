@@ -59,16 +59,16 @@ class CSV:
         the_file = open(file_name, 'w')
         for arg in args:
             the_file.write(str("For " + arg + ":\n").upper())
-            max_value = max(getattr(record, 'max_' + arg)
+            max_value = max(getattr(record, 'max_%s' % arg)
                             for record in self.record_list)
             max_date = max(record.date for record in self.record_list
-                           if getattr(record, 'max_' + arg) == max_value)
-            mean_value = int(mean(list(getattr(record, 'mean_' + arg)
+                           if getattr(record, 'max_%s' % arg) == max_value)
+            mean_value = int(mean(list(getattr(record, 'mean_%s' % arg)
                                        for record in self.record_list)))
-            min_value = min(getattr(record, 'min_' + arg)
+            min_value = min(getattr(record, 'min_%s' % arg)
                             for record in self.record_list)
             min_date = min(record.date for record in self.record_list
-                           if getattr(record, 'min_' + arg) == min_value)
+                           if getattr(record, 'min_%s' % arg) == min_value)
 
             the_file.write("Maximum value was {:d} on {}\n".format(
                 max_value, max_date))
@@ -77,9 +77,9 @@ class CSV:
             the_file.write("Minimum temperature was {:d} on {}\n".format(
                 min_value, min_date))
             #######################################################
-            max_list = [getattr(record, 'max_' + arg)
+            max_list = [getattr(record, 'max_%s' % arg)
                         for record in self.record_list]
-            min_list = [getattr(record, 'min_' + arg)
+            min_list = [getattr(record, 'min_%s' % arg)
                         for record in self.record_list]
             max_list = sorted(Counter(max_list).items(),
                               key=itemgetter(0), reverse=True)
@@ -91,7 +91,7 @@ class CSV:
                 if int(value_date[1]) == 1:
                     the_file.write("{0}: on {1}\n".format(
                         value_date[0], max(record.date for record in self.record_list
-                                           if getattr(record, 'max_' + arg) == value_date[0])))
+                                           if getattr(record, 'max_%s' % arg) == value_date[0])))
                 else:
                     the_file.write("{0}: on {1} days\n".format(
                         value_date[0], value_date[1]))
@@ -101,7 +101,7 @@ class CSV:
                 if int(value_date[1]) == 1:
                     the_file.write("{0}: on {1}\n".format(
                         value_date[0], max(record.date for record in self.record_list
-                                           if getattr(record, 'min_' + arg) == value_date[0])))
+                                           if getattr(record, 'min_%s' % arg) == value_date[0])))
                 else:
                     the_file.write("{0}: on {1}\n".format(
                         value_date[0], value_date[1]))
