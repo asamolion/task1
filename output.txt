@@ -1,7 +1,8 @@
-Maximum temperature was 41 on 2012-08-10
+FOR TEMP:
+Maximum value was 41 on 2012-08-10
 Mean temperature was 14
 Minimum temperature was 0 on 1997-01-02
-The 10 highest temperatures recorded were:
+The 10 Maximum values recorded were:
 41: on 2012-08-10
 40: on 4 days
 39: on 23 days
@@ -12,74 +13,23 @@ The 10 highest temperatures recorded were:
 34: on 194 days
 33: on 204 days
 32: on 254 days
-The 10 lowest temperatures recorded were:
-0: on 943 days
-1: on 270 days
-2: on 285 days
-3: on 274 days
-4: on 308 days
-5: on 294 days
-6: on 347 days
-7: on 335 days
-8: on 330 days
-9: on 347 days
+The 10 Minimum values recorded were:
+0: on 943
+1: on 270
+2: on 285
+3: on 274
+4: on 308
+5: on 294
+6: on 347
+7: on 335
+8: on 330
+9: on 347
 
-Maximum dew was 20 on 2015-08-30
-Mean dew was 4
-Minimum dew was -18 on 2014-12-29
-The 10 highest dew points recorded were:
-20: on 4 days
-19: on 13 days
-18: on 39 days
-17: on 72 days
-16: on 151 days
-15: on 223 days
-14: on 326 days
-13: on 429 days
-12: on 510 days
-11: on 503 days
-The 10 lowest dew points recorded were:
--18: on 2014-12-29
--16: on 3 days
--14: on 4 days
--13: on 3 days
--12: on 5 days
--11: on 8 days
--10: on 16 days
--9: on 25 days
--8: on 45 days
--7: on 63 days
-
-Maximum humidity was 100 on 2015-12-31
-Mean humidity was 57
-Minimum humidity was 0 on 2001-06-25
-The 10 highest humidity points recorded were:
-100: on 1547 days
-97: on 2013-12-26
-95: on 2015-11-02
-94: on 514 days
-93: on 868 days
-89: on 2014-06-11
-88: on 217 days
-87: on 411 days
-86: on 89 days
-83: on 42 days
-The 10 lowest humidity points recorded were:
-0: on 2 days
-4: on 32 days
-5: on 29 days
-6: on 67 days
-7: on 50 days
-8: on 81 days
-9: on 79 days
-10: on 107 days
-11: on 119 days
-12: on 172 days
-
-Maximum sea_pressure was 1047 on 2015-01-09
-Mean sea pressure was 1017
-Minimum sea_pressure was 965 on 2001-03-02
-The 10 highest sea pressure readings recorded were:
+FOR SEA_PRESSURE:
+Maximum value was 1047 on 2015-01-09
+Mean temperature was 1017
+Minimum temperature was 965 on 2001-03-02
+The 10 Maximum values recorded were:
 1047: on 2015-01-09
 1046: on 2015-01-10
 1044: on 3 days
@@ -90,22 +40,50 @@ The 10 highest sea pressure readings recorded were:
 1038: on 15 days
 1037: on 22 days
 1036: on 28 days
-The 10 lowest sea pressure readings recorded were:
+The 10 Minimum values recorded were:
 965: on 2001-03-02
 980: on 2013-01-19
 981: on 1997-11-06
-986: on 2 days
-987: on 3 days
-988: on 3 days
-989: on 2 days
-990: on 2 days
-991: on 3 days
-992: on 9 days
+986: on 2
+987: on 3
+988: on 3
+989: on 2
+990: on 2
+991: on 3
+992: on 9
 
-Maximum visibility was 31 on 2015-12-31
-Mean visibility was 10
-Minimum visibility was 0 on 1997-01-07
-The 10 highest visibility readings recorded were:
+FOR DEW:
+Maximum value was 20 on 2015-08-30
+Mean temperature was 4
+Minimum temperature was -18 on 2014-12-29
+The 10 Maximum values recorded were:
+20: on 4 days
+19: on 13 days
+18: on 39 days
+17: on 72 days
+16: on 151 days
+15: on 223 days
+14: on 326 days
+13: on 429 days
+12: on 510 days
+11: on 503 days
+The 10 Minimum values recorded were:
+-18: on 2014-12-29
+-16: on 3
+-14: on 4
+-13: on 3
+-12: on 5
+-11: on 8
+-10: on 16
+-9: on 25
+-8: on 45
+-7: on 63
+
+FOR VISIBILITY:
+Maximum value was 31 on 2015-12-31
+Mean temperature was 10
+Minimum temperature was 0 on 1997-01-07
+The 10 Maximum values recorded were:
 31: on 1291 days
 27: on 5 days
 26: on 14 days
@@ -116,19 +94,15 @@ The 10 highest visibility readings recorded were:
 18: on 8 days
 16: on 2 days
 14: on 9 days
-The 10 lowest visibility readings recorded were:
-0: on 1107 days
-1: on 104 days
-2: on 104 days
-3: on 265 days
-4: on 189 days
-5: on 259 days
-6: on 239 days
-7: on 208 days
-8: on 362 days
-9: on 194 days
-
-Maximum wind speed was 182 on 1999-12-15
-Mean wind speed was 9
-Maximum gust speed was 103 on 1997-11-06
+The 10 Minimum values recorded were:
+0: on 1107
+1: on 104
+2: on 104
+3: on 265
+4: on 189
+5: on 259
+6: on 239
+7: on 208
+8: on 362
+9: on 194
 
