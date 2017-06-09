@@ -48,7 +48,9 @@ class CSV:
             self.record_list.append(new_record)
 
     def get_data(self, *args, **kwargs):
-        """ returns data of each of the attributes passed in *args of the csv file """
+        """ gets summary data for each attribute in args and then writes 
+            the data to file_name in kwargs
+        """
 
         if 'file_name' in kwargs:
             file_name = kwargs['file_name']
