@@ -14,43 +14,16 @@ The 10 Maximum values recorded were:
 33: on 204 days
 32: on 254 days
 The 10 Minimum values recorded were:
-0: on 943
-1: on 270
-2: on 285
-3: on 274
-4: on 308
-5: on 294
-6: on 347
-7: on 335
-8: on 330
-9: on 347
-
-FOR SEA_PRESSURE:
-Maximum value was 1047 on 2015-01-09
-Mean temperature was 1017
-Minimum temperature was 965 on 2001-03-02
-The 10 Maximum values recorded were:
-1047: on 2015-01-09
-1046: on 2015-01-10
-1044: on 3 days
-1043: on 2013-01-04
-1041: on 5 days
-1040: on 3 days
-1039: on 5 days
-1038: on 15 days
-1037: on 22 days
-1036: on 28 days
-The 10 Minimum values recorded were:
-965: on 2001-03-02
-980: on 2013-01-19
-981: on 1997-11-06
-986: on 2
-987: on 3
-988: on 3
-989: on 2
-990: on 2
-991: on 3
-992: on 9
+0: on 943 days
+1: on 270 days
+2: on 285 days
+3: on 274 days
+4: on 308 days
+5: on 294 days
+6: on 347 days
+7: on 335 days
+8: on 330 days
+9: on 347 days
 
 FOR DEW:
 Maximum value was 20 on 2015-08-30
@@ -69,15 +42,15 @@ The 10 Maximum values recorded were:
 11: on 503 days
 The 10 Minimum values recorded were:
 -18: on 2014-12-29
--16: on 3
--14: on 4
--13: on 3
--12: on 5
--11: on 8
--10: on 16
--9: on 25
--8: on 45
--7: on 63
+-16: on 3 days
+-14: on 4 days
+-13: on 3 days
+-12: on 5 days
+-11: on 8 days
+-10: on 16 days
+-9: on 25 days
+-8: on 45 days
+-7: on 63 days
 
 FOR VISIBILITY:
 Maximum value was 31 on 2015-12-31
@@ -95,14 +68,14 @@ The 10 Maximum values recorded were:
 16: on 2 days
 14: on 9 days
 The 10 Minimum values recorded were:
-0: on 1107
-1: on 104
-2: on 104
-3: on 265
-4: on 189
-5: on 259
-6: on 239
-7: on 208
-8: on 362
-9: on 194
+0: on 1107 days
+1: on 104 days
+2: on 104 days
+3: on 265 days
+4: on 189 days
+5: on 259 days
+6: on 239 days
+7: on 208 days
+8: on 362 days
+9: on 194 days
 
